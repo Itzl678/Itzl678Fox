@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+    </head>
+    <body>
+        <style>
+          body{
+              background-color:rgb(232, 63, 232);
+          }  
+            
+         h2{
+             color: rgb(235, 226, 230);
+         font-family: sans-serif;
+            font-size: 40px; 
+         }   
+            
+            #title{
+                color: rgb(33, 245, 0);
+                font-style: italic;
+                font-size: 50px;
+                font-weight: bold;
+            }
+            
+            
+            
+        </style>
+        
+        <h1>ITZEL's blog</h1>
+
+        <h3>REPOSTERIA</h3>
+        <ul>
+            <li><a href="#pie_de_zarzamora">Pie de zarzamora</a></li>
+            
+            <li><a href="#flan_napolitano">Flan napolitano</a></li>
+            
+            <li><a href="#pastel_tres leches">Pastel de tres leches</a></li>
+            
+        </ul>
+        
+       <h2 id="pie_de_zarzamora">Pie de zarzamora</h2>
+       <a href="https://www.youtube.com/watch?v=r2OyGpH38l8"> Receta original</a>
+        <p>Realmente facil<p> 
+        <p> Te lleva menos de una hora</p>
+        <p>Sabe delicioso</p>
+        
+        <h2 id="flan_napolitano"> Flan Napolitano</h2>
+        <p>Sin necesidad de un horno<p>
+        <p> Completamente facil</p>
+        <p>Sin exceso de azucar</p>
+        
+        <h2 id="Pastel de tres leches"> Pastel de Tres leches</h2>
+         <p>Opina si quieres mas recetas como estas</p>
+         
+         <h6> have very good webside</h6>
+         <p> Espero y te guste el resultado</p>
+    </body>
+</html>
